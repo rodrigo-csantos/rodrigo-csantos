@@ -7,5 +7,8 @@
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img align="center" alt="Express.js" height="22" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
   <img align="center" alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-%231572B6?style=flat-square&logo=sequelize">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img align="center" alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
 </div>
 </ br>

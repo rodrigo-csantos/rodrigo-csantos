@@ -3,7 +3,7 @@
 -  Desenvolvedor Full Stack focado em expandir meus conhecimentos, atualmente estudando stacks como React.js, Node.js, TypeScript e Python.
 
 <div align="center">
-<a>href="https://www.instagram.com/rodriigoc.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/rodriigoc.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </div>
 
 ### Coding with/ Codando com:
